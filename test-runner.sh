@@ -12,7 +12,6 @@
 #         --console none \
 #         --nostatusrc \
 #         src > tests.txt || exit 0
-#     """
 
 # get testname from generated test list
 testList=(`cat tests.txt`)
